@@ -1,1 +1,1 @@
-# Member site for Amplified
+# Member page for Amplified
